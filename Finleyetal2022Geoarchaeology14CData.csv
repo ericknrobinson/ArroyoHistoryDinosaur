@@ -1,0 +1,58 @@
+﻿Sample Number,Profile Samples Number,Lab Number (UCIAMS),Context,Depth (cmbs),Sample Type,% Carbon,Conventional Radiocarbon Age (yrs BP)
+CCAL1-4AbS1-R89,1-1,242321,"Stratum I, Lowest Paleosol (3Ab)",232,Bulk Sediment,–,1900+/-15
+CCAL1-4AbS2-R90,1-2,242322,"Stratum I, Lowest Paleosol (3Ab)",220,Bulk Sediment,–,2075+/-15
+CCAL1-3AbS1-R91,1-3,242323,"Stratum V, Paleosol at Middle of Buttressed Unconformity",65,Bulk Sediment,–,1810+/-15
+CCAL1-3AbS2-R92,1-4,242324,"Stratum V, Paleosol at Middle of Buttressed Unconformity",57,Bulk Sediment,–,1710+/-15
+CCAL1-2AbS1-R168,1-5,253520,"Stratum VI, Paleosol at Top of Buttressed Unconformity",25,Bulk Sediment,–,775+/-15
+CCAL1-2AbS2-R169,1-6,253521,"Stratum VI, Paleosol at Top of Buttressed Unconformity",22,Bulk Sediment,–,775+/-15
+CCAL1-Fe1S1-R93,1-7,242325,"Stratum VIII, Fluvent 1 (lowest)",190,Bulk Sediment,–,1025+/-15
+CCAL1-Fe1S2-R94,1-8,242326,"Stratum VIII, Fluvent 1 (lowest)",185,Bulk Sediment,–,1080+/-20
+CCAL1-Fe3S1-R97,1-9,242313,"Stratum IX, Fluvent 3 (Top of Second Fill)",152,Charcoal,–,770+/-20
+CCAL1-Fe2S2-R96,1-10,242312,"Stratum X, Fluvent 2 (Base of Second Buttressed Unconformity",142,Charcoal,–,1195+/-20
+CCAL1-Fe4S2-R100,1-11,242314,"Stratum X, Fluvent 4",112,Charcoal,–,395+/-15
+CCAL1-Fe5S1-R101,1-12,242315,"Stratum X, Fluvent 5",102,Charcoal,–,1245+/-15
+CCAL1-Fe6S2-R104,1-13,242316,"Stratum XI, Fluvent 6",60,Charcoal,–,345+/-20
+CCAL1-Fe7S1-R105,1-14,242317,"Stratum XI, Fluvent 7",37,Charcoal,–,320+/-15
+CCAL2-1b-R108,2-1b,247810,Stratum I,414,Charcoal,0.4,1710+/-80
+CCAL2-2-R109b**,2-2,247811,Channel 1 Middle,405,Charcoal,0.3,2155+/-15
+CCAL2-2-R109a*$,2-2,247861,Channel 1 Middle,405,Charcoal,2.7,2545+/-15
+CCAL2-3-R110$,2-3,247812,"Channel 1 Top, West Wall",387,Charcoal,71.5,1800+/-15
+CCAL2-4-R111b**,2-4,247813,"Channel 1 Base, West Wall",415,Charcoal,0.4,1770+/-15
+CCAL2-4-R111a*$,2-4,247862,"Channel 1 Base, West Wall",415,Charcoal,3.1,1775+/-25
+CCAL2-5-R112$,2-5,247814,"Channel 1 Base, East Wall",416,Charcoal,1,1805+/-20
+CCAL2-6-R113,2-6,247815,"Channel 1 Middle, East Wall",400,Charcoal,3.9,945+/-20
+CCAL2-7-R114,2-7,247816,"Channel 1 Top, East Wall",396,Charcoal,0.2,1960+/-80
+CCAL2-8-R115$,2-8,247817,Stratum II,380,Charcoal,6,1750+/-15
+CCAL2-9-R116,2-9,247818,Stratum II/III Contact,370,Charcoal,12.4,2160+/-15
+CCAL2-10-R117,2-10,247819,Stratum III/IV Contact,365,Charcoal,25.5,1615+/-15
+CCAL2-11-R118$,2-11,247820,Channel 2 Base,390,Charcoal,56.6,1675+/-15
+CCAL2-12-R119$,2-12,247821,Channel 2 Middle,382,Charcoal,50.9,1590+/-15
+CCAL2-13-R120,2-13,247822,Channel 2 Top,367,Charcoal,0.3,1745+/-15
+CCAL2-14-R121,2-14,247823,Stratum IV Bottom Layer,360,Charcoal,0.5,1660+/-15
+CCAL2-15-R122b**,2-15,247824,Stratum IV Middle Layer,355,Charcoal,0.8,2140+/-15
+CCAL2-15-R122a*,2-15,247863,Stratum IV Middle Layer,355,Charcoal,3.4,2145+/-25
+CCAL2-16-R123b**,2-16,247827,Stratum IV Upper Layer,350,Charcoal,0.9,1970+/-15
+CCAL2-16-R123a*,2-16,247864,Stratum IV Upper Layer,350,Charcoal,2.8,1815+/-30
+CCAL2-17-R124,2-17,247828,Channel 3 Base,385,Charcoal,1.2,2110+/-15
+CCAL2-18-R125$,2-18,247829,Channel 3 Middle,370,Charcoal,1.1,1525+/-15
+CCAL2-19-R126$,2-19,247830,Channel 3 Top,350,Charcoal,16.3,1140+/-15
+CCAL2-20-R127b**,2-20,247831,Stratum IV Top Channel 3,345,Charcoal,0.7,1730+/-15
+CCAL2-20-R127a*,2-20,247865,Stratum IV Top Channel 3,345,Charcoal,1.7,1980+/-30
+CCAL2-21-R128,2-21,247832,Stratum IV,335,Charcoal,0.7,1890+/-15
+CCAL2-22-R129,2-22,247833,Stratum IV,330,Charcoal,3.8,1800+/-15
+CCAL2-23-R130,2-23,247850,Stratum IV/V Contact,325,Bulk Sediment,3.1,2545+/-15
+CCAL2-24-R131,2-24,247834,Stratum VI,316,Charcoal,62.5,2140+/-15
+CCAL2-25-R132,2-25,247851,Stratum VI/VII Contact,306,Bulk Sediment,1.3,2810+/-15
+CCAL2-26-R133,2-26,247835,Stratum VII/VIII Contact,299,Charcoal,0.4,1785+/-15
+CCAL2-28-R135,2-28,247836,Stratum VIII/IX Contact,260,Charcoal,0.9,1665+/-15
+CCAL2-30-R137,2-30,247837,Stratum XI,237,Charcoal,0.1,1850+/-15
+CCAL2-33-R140b**,2-33,247838,Stratum XII,203,Charcoal,2,1605+/-15
+CCAL2-33-R140a*$,2-33,247866,Stratum XII,203,Charcoal,1.6,620+/-30
+CCAL2-34-R141,2-34,247839,Stratum XVII,129,Charcoal,0.5,1375+/-15
+CCAL2-35-R142,2-35,247840,Stratum XX,107,Charcoal,1.6,1370+/-20
+CCAL2-36-R143,2-36,247841,Stratum XXII Base,254,Charcoal,0.2,510+/-15
+CCAL2-37-R144,2-37,247842,Stratum XXII Above Base,198,Charcoal,4.3,Modern
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
